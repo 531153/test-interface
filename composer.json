@@ -2,6 +2,14 @@
     "name": "531153/hyperf-interface",
     "type": "library",
     "description": "test interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lxy",
+            "email": "liuxiaoyangdyx@163.com",
+            "homepage": "https://github.com/531153/test-interface"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "App\\": "src/"
